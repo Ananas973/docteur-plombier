@@ -54,7 +54,7 @@
 			
         $('.count1').countTo({
             from: 0,
-            to: 2561,
+            to: 200,
             refreshInterval: 50,
             onComplete: function(value) {
                 console.debug(this);
@@ -62,7 +62,7 @@
         });
 		$('.count2').countTo({
             from: 0,
-            to: 025,
+            to: 012,
             refreshInterval: 50,
             onComplete: function(value) {
                 console.debug(this);
@@ -70,7 +70,7 @@
         });
 		$('.count3').countTo({
             from: 0,
-            to: 007,
+            to: 08,
             refreshInterval: 50,
             onComplete: function(value) {
                 console.debug(this);
