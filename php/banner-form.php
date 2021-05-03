@@ -1,7 +1,7 @@
 <?php
 
 	// specify your email here
-	$to = 'adnan@webicode.com';
+	$to = 'contact@anansi-writes.com';
 
 	// Assigning data from $_POST array to variables
     if (isset($_POST['name'])) { $name = $_POST['name']; }
